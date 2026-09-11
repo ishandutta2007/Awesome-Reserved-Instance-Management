@@ -77,46 +77,46 @@ The table below is sorted in **descending order by company scale** (revenue, val
 
 The repositories below are **sorted in descending order by GitHub star count**:
 
-1. 💸 **[Infracost](https://github.com/infracost/infracost)** [![GitHub stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)  
+1. 💸 **[Infracost](https://github.com/infracost/infracost)** [![GitHub_Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)  
    Cloud cost estimates for Terraform, Pulumi, and IaC directly in pull requests, allowing platform engineers to catch accidental cloud budget overruns before infrastructure is deployed.
 
-2. ⚡ **[Karpenter (AWS Provider)](https://github.com/aws/karpenter-provider-aws)** [![GitHub stars](https://img.shields.io/github/stars/aws/karpenter-provider-aws?style=social&color=white)](https://github.com/aws/karpenter-provider-aws/stargazers)  
+2. ⚡ **[Karpenter (AWS Provider)](https://github.com/aws/karpenter-provider-aws)** [![GitHub_Stars](https://img.shields.io/github/stars/aws/karpenter-provider-aws?style=social&color=white)](https://github.com/aws/karpenter-provider-aws/stargazers)  
    Open-source Kubernetes node provisioning and autoscaling engine that rapidly selects right-sized compute, provisions Spot instances dynamically, and minimizes waste across Reserved Instances and Savings Plans portfolios.
 
-3. ☸️ **[OpenCost](https://github.com/opencost/opencost)** [![GitHub stars](https://img.shields.io/github/stars/opencost/opencost?style=social&color=white)](https://github.com/opencost/opencost/stargazers)  
+3. ☸️ **[OpenCost](https://github.com/opencost/opencost)** [![GitHub_Stars](https://img.shields.io/github/stars/opencost/opencost?style=social&color=white)](https://github.com/opencost/opencost/stargazers)  
    CNCF-hosted open-source vendor-neutral Kubernetes cost monitoring engine providing real-time container cost allocation, network egress pricing, and resource consumption metrics.
 
-4. 🛡️ **[Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)** [![GitHub stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers)  
+4. 🛡️ **[Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)** [![GitHub_Stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers)  
    Lightweight, open-source rules engine for multi-cloud security and cost management that automatically stops idle EC2/RDS instances during non-working hours, cleans detached EBS volumes, and enforces tagging policies.
 
-5. 🔍 **[ec2instances.info](https://github.com/vantage-sh/ec2instances.info)** [![GitHub stars](https://img.shields.io/github/stars/vantage-sh/ec2instances.info?style=social&color=white)](https://github.com/vantage-sh/ec2instances.info/stargazers)  
+5. 🔍 **[ec2instances.info](https://github.com/vantage-sh/ec2instances.info)** [![GitHub_Stars](https://img.shields.io/github/stars/vantage-sh/ec2instances.info?style=social&color=white)](https://github.com/vantage-sh/ec2instances.info/stargazers)  
    The definitive open-source EC2 pricing, Reserved Instance terms, and Savings Plans comparison matrix, widely used by FinOps teams and infrastructure architects worldwide.
 
-6. 🗺️ **[Cartography (Lyft)](https://github.com/lyft/cartography)** [![GitHub stars](https://img.shields.io/github/stars/lyft/cartography?style=social&color=white)](https://github.com/lyft/cartography/stargazers)  
+6. 🗺️ **[Cartography (Lyft)](https://github.com/lyft/cartography)** [![GitHub_Stars](https://img.shields.io/github/stars/lyft/cartography?style=social&color=white)](https://github.com/lyft/cartography/stargazers)  
    Python-based open-source graph mapping tool that consolidates infrastructure assets, accounts, and services to expose zombie servers, untagged resources, and commitment waste.
 
-7. 🔄 **[Terracognita (Cycloid)](https://github.com/cycloidio/terracognita)** [![GitHub stars](https://img.shields.io/github/stars/cycloidio/terracognita?style=social&color=white)](https://github.com/cycloidio/terracognita/stargazers)  
+7. 🔄 **[Terracognita (Cycloid)](https://github.com/cycloidio/terracognita)** [![GitHub_Stars](https://img.shields.io/github/stars/cycloidio/terracognita?style=social&color=white)](https://github.com/cycloidio/terracognita/stargazers)  
    Reverse-engineering engine that scans existing AWS, GCP, and Azure cloud infrastructures and exports them into Terraform definitions, illuminating uncommitted compute drift.
 
-8. 🎯 **[AutoSpotting](https://github.com/LeanerCloud/AutoSpotting)** [![GitHub stars](https://img.shields.io/github/stars/LeanerCloud/AutoSpotting?style=social&color=white)](https://github.com/LeanerCloud/AutoSpotting/stargazers)  
+8. 🎯 **[AutoSpotting](https://github.com/LeanerCloud/AutoSpotting)** [![GitHub_Stars](https://img.shields.io/github/stars/LeanerCloud/AutoSpotting?style=social&color=white)](https://github.com/LeanerCloud/AutoSpotting/stargazers)  
    Autonomous open-source tool that continuously inspects AWS Auto Scaling groups and replaces expensive on-demand instances with compatible Spot instances without modifying Auto Scaling launch templates.
 
-9. 📊 **[OptScale (Hystax)](https://github.com/hystax/optscale)** [![GitHub stars](https://img.shields.io/github/stars/hystax/optscale?style=social&color=white)](https://github.com/hystax/optscale/stargazers)  
+9. 📊 **[OptScale (Hystax)](https://github.com/hystax/optscale)** [![GitHub_Stars](https://img.shields.io/github/stars/hystax/optscale?style=social&color=white)](https://github.com/hystax/optscale/stargazers)  
    Open-source FinOps platform supporting AWS, Azure, GCP, Alibaba Cloud, and Kubernetes with multi-cloud cost visibility, commitment coverage tracking, and anomaly alerts.
 
-10. 🌿 **[kube-green](https://github.com/kube-green/kube-green)** [![GitHub stars](https://img.shields.io/github/stars/kube-green/kube-green?style=social&color=white)](https://github.com/kube-green/kube-green/stargazers)  
+10. 🌿 **[kube-green](https://github.com/kube-green/kube-green)** [![GitHub_Stars](https://img.shields.io/github/stars/kube-green/kube-green?style=social&color=white)](https://github.com/kube-green/kube-green/stargazers)  
     CNCF landscape Kubernetes controller that automatically scales down non-production pods during non-working hours, saving up to 70% of staging and development compute bills.
 
-11. 📉 **[Terraform Cost Estimation](https://github.com/antonbabenko/terraform-cost-estimation)** [![GitHub stars](https://img.shields.io/github/stars/antonbabenko/terraform-cost-estimation?style=social&color=white)](https://github.com/antonbabenko/terraform-cost-estimation/stargazers)  
+11. 📉 **[Terraform Cost Estimation](https://github.com/antonbabenko/terraform-cost-estimation)** [![GitHub_Stars](https://img.shields.io/github/stars/antonbabenko/terraform-cost-estimation?style=social&color=white)](https://github.com/antonbabenko/terraform-cost-estimation/stargazers)  
     Popular GitHub Action and CLI for estimating cost differences in Terraform code directly in GitHub PRs using pricing APIs and structured infracost telemetry.
 
-12. 🧰 **[FinOps Toolkit (Microsoft)](https://github.com/microsoft/finops-toolkit)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/finops-toolkit?style=social&color=white)](https://github.com/microsoft/finops-toolkit/stargazers)  
+12. 🧰 **[FinOps Toolkit (Microsoft)](https://github.com/microsoft/finops-toolkit)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/finops-toolkit?style=social&color=white)](https://github.com/microsoft/finops-toolkit/stargazers)  
     Microsoft open-source repository offering automation templates, Power BI report packs, and data pipelines to implement FinOps practices and ingest FOCUS-compliant cost data.
 
-13. 📈 **[Cloud Intelligence Dashboards / CUDOS (AWS)](https://github.com/aws-solutions-library-samples/cloud-intelligence-dashboards-framework)** [![GitHub stars](https://img.shields.io/github/stars/aws-solutions-library-samples/cloud-intelligence-dashboards-framework?style=social&color=white)](https://github.com/aws-solutions-library-samples/cloud-intelligence-dashboards-framework/stargazers)  
+13. 📈 **[Cloud Intelligence Dashboards / CUDOS (AWS)](https://github.com/aws-solutions-library-samples/cloud-intelligence-dashboards-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/aws-solutions-library-samples/cloud-intelligence-dashboards-framework?style=social&color=white)](https://github.com/aws-solutions-library-samples/cloud-intelligence-dashboards-framework/stargazers)  
     AWS open-source framework deploying operational QuickSight dashboards (CUDOS, Cost Intelligence Dashboard, Compute Optimizer Dashboard) for deep analysis of CUR data, RIs, and Savings Plans.
 
-14. 📐 **[FOCUS Specification (FinOps Foundation)](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec)** [![GitHub stars](https://img.shields.io/github/stars/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec?style=social&color=white)](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/stargazers)  
+14. 📐 **[FOCUS Specification (FinOps Foundation)](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec)** [![GitHub_Stars](https://img.shields.io/github/stars/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec?style=social&color=white)](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/stargazers)  
     The official open-source FinOps Open Cost and Usage Specification establishing vendor-neutral billing schema definitions to make cost data interchangeable across AWS, Azure, GCP, and SaaS vendors.
 
 ---
@@ -153,7 +153,7 @@ Contributions are warmly encouraged! Help keep this FinOps repository the most a
 2. 🌿 **Create a branch**: `git checkout -b add-finops-tool`.
 3. 📝 **Add your entry** to the appropriate section following the existing markdown schema:
    - For SaaS tools: Include platform name, parent company/valuation, description, starting pricing, and exact free tier/trial limits.
-   - For Open-Source projects: Include valid GitHub repository link, star badge (`style=social&color=white`) linking to stargazers, and a concise summary.
+   - For Open-Source projects: Include valid GitHub repository link, Stars_Badge (`style=social&color=white`) linking to stargazers, and a concise summary.
 4. 🚀 **Submit a Pull Request** with a clear explanation of your change.
 
 ---
