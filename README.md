@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Zesty](https://zesty.co/)**  
-
-  Automated cloud resource optimization platform that manages commitments, rightsizing, and storage optimization with real-time adjustments.
-
-
-
-- **[ProsperOps](https://www.prosperops.com/)**  
-
-  Autonomous Discount Management platform focused on continuous optimization of Reserved Instances and Savings Plans (now part of Flexera).
-
-
-
-- **[Spot by NetApp](https://spot.io/)**  
-
-  Cloud operations and optimization suite specializing in Spot instance automation, commitment management, and Kubernetes cost control.
-
-
-
-- **[Densify](https://www.densify.com/)**  
-
-  Resource optimization and densification platform that analyzes workloads and recommends commitment and sizing strategies.
-
-
-
-- **[CloudKeeper](https://www.cloudkeeper.com/)**  
-
-  Cloud cost optimization and FinOps platform with strong focus on commitment and RI management services.
-
-
-
-- **[CloudHealth (Broadcom / VMware)](https://www.cloudhealthtech.com/)**  
-
-  Enterprise multi-cloud cost management platform that includes RI and Savings Plan recommendations and governance.
-
-
-
-- **[Cloudability (Apptio)](https://www.apptio.com/products/cloudability/)**  
-
-  Cloud cost management and FinOps platform offering visibility, allocation, and commitment optimization insights.
-
-
-
-- **[nOps](https://www.nops.io/)**  
-
-  FinOps platform with automated commitment management, continuous optimization, and multi-cloud coverage.
-
-
-
-- **[Vantage](https://www.vantage.sh/)**  
-
-  Cloud cost transparency and optimization platform providing detailed cost visibility, reporting, and savings recommendations.
-
-
-
-- **[Finout](https://www.finout.io/)**  
-
-  Cloud cost management platform focused on accurate cost allocation, showback/chargeback, and FinOps workflows.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Zesty](https://zesty.co/)** | Automated cloud resource optimization platform that manages commitments, rightsizing, and storage optimization with real-time adjustments. | Starts at ~20%–25% of net savings generated (or base platform fee starting at ~$500/month + $5/vCPU for storage/compute management) | 30-day evaluation trial with full telemetry access; complimentary automated cloud savings analysis and audit (no permanent free tier) |
+| **[ProsperOps](https://www.prosperops.com/)** | Autonomous Discount Management platform focused on continuous optimization of Reserved Instances and Savings Plans (now part of Flexera). | Starts at 30%–35% of realized net savings (scales down with volume/multi-year commitment; baseline min. ~$200k/year cloud spend / ~$15,000/yr; ARM Scheduler billed at flat fee per resource/mo) | Free Savings Analysis (quantifies historical discount performance, Effective Savings Rate, and potential savings within 24 hours with read-only IAM; no permanent free automated execution tier) |
+| **[Spot by NetApp](https://spot.io/)** | Cloud operations and optimization suite specializing in Spot instance automation, commitment management, and Kubernetes cost control. | Pay-as-you-go per 100 vCPU-hours for compute automation, or ~15%–20% of realized savings for Eco RI management (annual contract baseline averages ~$17,000/year / ~$1,400/mo) | 14-day full feature free trial on AWS Marketplace; followed by a permanent freemium tier for up to 20 virtual machines (VMs) |
+| **[Densify](https://www.densify.com/)** | Resource optimization and densification platform that analyzes workloads and recommends commitment and sizing strategies. | Starts at $2.50/instance/month (minimum commitment of 2,000 instances / ~$5,000/month) or $2.00/vCPU/month for Kubernetes (minimum 1,000 vCPUs) | 60-day full-featured free trial with complete cloud and container sizing recommendations across your infrastructure |
+| **[CloudKeeper](https://www.cloudkeeper.com/)** | Cloud cost optimization and FinOps platform with strong focus on commitment and RI management services. | CloudKeeper Commit starts at 18% of savings delivered; CloudKeeper Lens/Tuner starts at 1%–2% of monthly cloud spend (CloudKeeper AZ offers guaranteed 15%–25% savings with $0 upfront fee) | 30-day free trial for CloudKeeper Lens, Tuner, and Commit with full cost visibility, waste detection, and savings discovery |
+| **[CloudHealth (Broadcom / VMware)](https://www.cloudhealthtech.com/)** | Enterprise multi-cloud cost management platform that includes RI and Savings Plan recommendations and governance. | Starts at ~2.2%–2.5% of monthly managed cloud spend (or tiered plans starting at ~$1,000–$3,000/month for up to $100K–$150K monthly cloud spend; typically 1–3 yr contract; $0.03/dollar overage) | 7-day to 14-day free trial on AWS Marketplace / structured sales-led POC with full multi-cloud visibility and anomaly detection (no permanent free tier) |
+| **[Cloudability (Apptio)](https://www.apptio.com/products/cloudability/)** | Cloud cost management and FinOps platform offering visibility, allocation, and commitment optimization insights. | Starting tier at $30,000/year (~$2,500/month) for up to $1M in managed annual cloud spend (~3.0% effective rate; scales to $76,680/year for $3M spend, plus overage charges) | 14-day free trial with full access to cost allocation, anomaly detection, and commitment planning across connected cloud accounts |
+| **[nOps](https://www.nops.io/)** | FinOps platform with automated commitment management, continuous optimization, and multi-cloud coverage. | Starts at $149/month for Cost Visibility & Allocation; Autonomous Rate Optimization charges a share of realized net savings (typically ~20% of net savings delivered) | 14-day free trial with full access to cost visibility, allocation, and reporting tools, plus a complimentary 30-minute cloud savings analysis |
+| **[Vantage](https://vantage.sh/)** | Cloud cost transparency and optimization platform providing detailed cost visibility, reporting, and savings recommendations. | Free tier available ($0/month); paid plans start at $30/month (Pro tier, up to $7,500/mo spend), and $200/month (Business tier, up to $20,000/mo spend) | Free forever plan for up to $2,500/month in tracked cloud spend (up to 3 users and 6 months data retention); plus a 14-day free trial on Pro & Business plans |
+| **[Finout](https://www.finout.io/)** | Cloud cost management platform focused on accurate cost allocation, showback/chargeback, and FinOps workflows. | Starts at ~$1,000/month (billed annually as a predictable flat fee based on committed cloud spend tiers, with $0 overage fees and no percentage-of-spend) | 14-day free trial with full feature access and unlimited connected cloud accounts (no permanent free tier) |
 
 
 
